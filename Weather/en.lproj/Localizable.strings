@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Kamila Sultanova on 19.07.2024.
+  
+*/
+"clear" = "Clear";
+"rain" = "Rain";
+"storm" = "Storm";
+"fog" = "Fog";
+"sunny" = "Sunny";
+"windy" = "Windy";
+"snowing" = "Snowing";
+"cloudy" = "Cloudy";
